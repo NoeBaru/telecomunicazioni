@@ -1,0 +1,75 @@
+﻿Per questa ragione sarà necessaria l’installazione di un maggior numero di antenne a distanza minore per garantire una copertura 5G paragonabile a quella offerta dal segnale 4G.
+(quindi se ci sono più antenne= più onde elettriche e l’ambiente risulta meno naturale)
+
+
+5G: come funziona, i vantaggi, gli svantaggi e i rischi | GiardiniBlog
+
+
+5G: le onde millimetriche
+La vera novità del 5G è che è il primo standard ad usare le cosiddette onde millimetriche, cioè quelle sopra ai 24 GHz. Frequenze così alte, sono ottime per le trasmissioni ad altissima velocità ma sono inaffidabili per via della scarsa portata e in caso siano presenti ostacoli fisici, che le disturbano e le distorcono. Basta una nuvola di passaggio, ad esempio, per interferire sul viaggio di un'onda millimetrica.
+
+
+Le frequenze radio del 5G: vantaggi e svantaggi - FASTWEBPLUS
+
+
+5G: le criticità
+Difficoltà di installazione e distribuzione
+Se installare le antenne 5G nelle grandi città non presenta particolari difficoltà, lo stesso non si può dire per i territori più periferici del nostro paese, che presentano spesso sfide geografiche complicate.
+
+
+Sicurezza decentralizzata
+I sistemi dinamici 5G presentano molti più punti di snodo per il traffico di rete. Ciò significa, come abbiamo visto prima, una maggiore velocità e reattività della connessione, ma anche una maggiore difficoltà di controllo degli snodi, che andrebbero monitorati tutti, visto che una breccia nel singolo snodo può compromettere la sicurezza dell'intero sistema.
+Il problema dell'IoT
+Macchinari industriali, computer di bordo, ma anche frigoriferi e lavastoviglie “intelligenti”: il 5G darà una spinta al mondo dell'IoT, permettendo una comunicazione veloce e continua fra oggetti e device. Ciò vuol dire però creare un'infinità di punti di accesso per le attività criminali di hacker e truffatori. Una tale mole di dispositivi metterà sicuramente alla prova la tenuta dei nostri sistemi di sicurezza informatica.
+Vulnerabilità
+Le criticità appena descritte portano inevitabilmente a una maggiore vulnerabilità della rete 5G. Uno dei pericoli maggiori è costituito dalla tecnica del IMSI Catcher, vale a dire la possibilità da parte dell'hacker di intercettare le comunicazioni fra i dispositivi connessi e la rete, ottenendo di nascosto tutte le informazioni sull'intercettato. A questa si aggiungono altri tipi di attacco che ormai abbiamo imparato a conoscere, come gli attacchi botnet, il Distributed denial-of-service (Ddos), il tracciamento della posizione e l'intercettazione delle chiamate. In conclusione, il 5G rappresenta un enorme passo in avanti tecnologico, quanto mai necessario nel mondo ultra-connesso della digital transformation. Si tratta tuttavia di un cambio di paradigma che va affrontato con le cautele del caso, in particolare per quanto riguarda la sicurezza e privacy dei nostri dati e di quelli delle nostre aziende.
+
+
+5G: vantaggi e criticità (vodafone.it)
+
+
+
+
+
+
+
+
+Mondovì, antenna per il 5G a Rifreddo? Il sindaco Robaldo: “Resistiamo”
+Questa sera l’amministrazione ha incontrato i residenti per illustrare la situazione e le possibili vie da intraprendere
+
+
+  
+
+Ampia partecipazione nella serata di oggi, mercoledì 8 novembre, a Rifreddo Mondovì per il caso della richiesta lavori per l’installazione di un’antenna per le telecomunicazioni, alta circa 34 metri in strada dei Pignolli.
+“Al momento della richiesta autorizzazione lavori - ha spiegato il sindaco Luca Robaldo, intervenuto insieme al vice sindaco Gabriele Campora e agli assessori Francesca Bertazzoli e Alberto Rabbia - la commissione edilizia ha espresso nell’immediato perplessità all’azienda che aveva richiesto i lavori, chiedendo almeno adeguamenti rispetto all’altezza e all’ubicazione del palo”. 
+L’azienda, la società milanese INWIT SPA, si è appellata a quanto previsto da norma di legge che, di fatto, impedisce ai Comuni di opporsi all'installazione di antenne per le telecomunicazioni.
+“La richiesta lavori presentata dalla ditta - ha ricordato il sindaco - fa riferimento alla posa di un palo alto 34 metri, destinato a ospitare apparati radioelettrici, ma senza indicare di quale tipologia. Con le perplessità rispetto alla possibile installazione di un’antenna 5G, ho assunto un’ordinanza per bloccare i lavori in base a un principio di precauzione e in seconda battuta in base all’articolo 32 della Costituzione per la tutela della salute pubblica”. 
+L’ordinanza blocca il cantiere fino a giugno 2024 ma, come evidenziato dal sindaco, può essere impugnata, in virtù della legge 26 del 2001 che all’articolo 8 afferma che “i comuni possono adottare un regolamento per assicurare il corretto insediamento urbanistico e territoriale degli impianti e minimizzare l’esposizione della popolazione ai campi elettromagnetici con riferimento a siti sensibili individuati in modo specifico, con esclusione della possibilità di introdurre limitazioni alla localizzazione in aree generalizzate del territorio”.
+I sindaci possono quindi emanare regole che minimizzino l’impatto sulla popolazione, ma non posso di fatto opporsi all’installazione delle antenne se rispettano i limiti di emissione dei campi elettromagnetici e i piani urbanistici. Nota non di poco conto.
+Intanto l’azienda ha risposto all’ordinanza scrivendo al sindaco che: “Alla luce delle osservazioni formulate, la revoca della sospensione in autotutela entro un massimo di 10 giorni al termine dei quali le scriventi saranno costrette per tutelare i propri interessi procedere per le vie legali riservandosi di valutare la sussistenza di un eventuale danno all'Erario, o che la descritta condotta possa integrare fattispecie di ordine penale.”
+“Le strade sono due: o revoco l’ordinanza o resistiamo - ha chiosato il primo cittadino - e, in questo caso, dobbiamo essere pronti anche ad andare al TAR, consci dei costi che potranno esserci se vincerà INWIT.” 
+Il signor Adriano Bonardi, tra i promotori della raccolta firme contro l'installazione dell'antenna, ha chiesto come è stata gestita la simile vicenda verificatasi a Carrù. 
+Robaldo ha chiarito: “Mi sono confrontato con il sindaco Nicola Schellino. Nonostante tutto l’antenna è stata installata, concordando luogo e canone con il comune”. 
+All’incontro ha partecipato anche il vice presidente del consiglio regionale Franco Graglia che si è complimentato con l'amministrazione per la gestione della situazione, invitando tutti a fare squadra per resistere. 
+Altre tre richieste di installazione per pali per le telecomunicazioni, sono arrivate in comune, alcune dalla stessa società, tra queste una al Borgato e una su un tetto in mezzo a Breo.
+
+
+fonte: targatocn
+
+
+Il dibattito sul 5G internet è stato accompagnato da preoccupazioni riguardo ai potenziali rischi per la salute derivanti dalle onde elettromagnetiche più intense. Tuttavia, è essenziale notare che la stragrande maggioranza degli esperti scientifici, inclusi quelli dell'Organizzazione Mondiale della Sanità (OMS) e di altri organismi di regolamentazione, sostiene che non ci sono prove sufficienti di effetti dannosi alla salute causati dalle frequenze utilizzate dal 5G.
+
+
+La Commissione Internazionale per la Protezione dalle Radiazioni Non-Ionizzanti (ICNIRP), che stabilisce linee guida sulla sicurezza per le radiazioni non ionizzanti, ha affermato che i livelli di esposizione del 5G sono ben al di sotto dei limiti raccomandati per garantire la sicurezza. Queste linee guida sono state formulate sulla base di numerosi studi scientifici indipendenti che valutano gli effetti delle radiazioni elettromagnetiche sulla salute umana.
+
+
+Un ampio studio condotto nel 2018 dall'Istituto Nazionale del Cancro degli Stati Uniti ha coinvolto decine di migliaia di animali esposti alle radiazioni a frequenze simili a quelle del 5G. I risultati di questo studio non hanno evidenziato un aumento significativo del rischio di tumori.
+
+
+È importante considerare anche il consenso scientifico globale. Ad esempio, la German Medical Association e la British Medical Association hanno sottolineato che, sulla base delle prove disponibili, non ci sono ragioni per preoccuparsi dei rischi per la salute associati al 5G.
+
+
+Inoltre, le agenzie regolatorie e di sicurezza di vari paesi, tra cui la Federal Communications Commission (FCC) negli Stati Uniti e l'Autorità Europea per la Sicurezza Alimentare (EFSA), continuano a monitorare attentamente la sicurezza del 5G, confermando che i livelli di esposizione rimangono ben al di sotto dei limiti stabiliti.
+
+
+In sintesi, mentre alcune preoccupazioni sono emerse riguardo al 5G, la vasta maggioranza delle prove scientifiche e delle valutazioni delle autorità regolatorie indica che non vi è motivo di allarmarsi per la salute umana a causa di questa tecnologia.

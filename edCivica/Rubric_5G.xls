@@ -1,0 +1,202 @@
+
+=char(32)
+
+			<br>
+			<ul>
+				<center>				
+				<h3>Class Debate : 5G</h3>
+				</center>
+				
+			</ul>
+		
+			<hr>
+			<div id = "div_content">
+				<ul>
+					Teacher Name:  <b>barbara Mauro</b>
+					<br> <br> <br>
+					Student Name: 
+					&nbsp; &nbsp; ________________________________________
+				</ul>
+			</div>
+			
+			<table width = "600" border = "1" cellpadding = "2" cellspacing = "0" 	 
+			 >
+		
+			<tr>
+		
+			<td
+		valign = "bottom" align = "center" bgcolor = "#fffff7" width = "130" >
+				<div id = "div_header">
+			CATEGORY
+				</div>
+			</td>
+			<td
+		valign = "bottom" align = "left" bgcolor = "#fffff7" width = "130" >
+				<div id = "div_header_bold">
+			4
+				</div>
+			</td>
+			<td
+		valign = "bottom" align = "left" bgcolor = "#fffff7" width = "130" >
+				<div id = "div_header_bold">
+			3
+				</div>
+			</td>
+			<td
+		valign = "bottom" align = "left" bgcolor = "#fffff7" width = "130" >
+				<div id = "div_header_bold">
+			2
+				</div>
+			</td>
+			<td
+		valign = "bottom" align = "left" bgcolor = "#fffff7" width = "130" >
+				<div id = "div_header_bold">
+			1
+				</div>
+			</td>
+			</tr>
+		
+			<tr>
+		
+			<td
+		valign = "top" align = "left" width = "130" height = "100" >
+				<div id = "div_header_bold">
+			Respect for Other Team
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			All statements, body language, and responses were respectful  and were in appropriate language.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Statements and responses were respectful and used appropriate language, but once or twice body language was not.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Most statements and responses were respectful and in appropriate language, but there was one sarcastic remark. 
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Statements, responses and/or body language were consistently not respectful.
+				</div>
+			</td>
+			</tr>
+		
+			<tr>
+		
+			<td
+		valign = "top" align = "left" width = "130" height = "100" >
+				<div id = "div_header_bold">
+			Presentation Style
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Team consistently used gestures, eye contact, tone of voice and a level of enthusiasm in a way that kept the attention of the audience.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Team usually used gestures, eye contact, tone of voice and a level of enthusiasm in a way that kept the attention of the audience.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Team sometimes used gestures, eye contact, tone of voice and a level of enthusiasm in a way that kept the attention of the audience.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			One or more members of the team had a presentation style that did not keep the attention of the audience.
+				</div>
+			</td>
+			</tr>
+		
+			<tr>
+		
+			<td
+		valign = "top" align = "left" width = "130" height = "100" >
+				<div id = "div_header_bold">
+			Use of Facts/Statistics
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Every major point was well  supported with several relevant facts, statistics and/or examples.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Every major point was adequately supported with relevant facts, statistics and/or examples.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Every major point was supported with facts, statistics and/or examples, but the relevance of some was questionable.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Every point was not supported.
+				</div>
+			</td>
+			</tr>
+		
+			<tr>
+		
+			<td
+		valign = "top" align = "left" width = "130" height = "100" >
+				<div id = "div_header_bold">
+			Rebuttal
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			All counter-arguments were accurate, relevant and strong.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Most counter-arguments were accurate, relevant, and strong.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Most counter-arguments were accurate and relevant, but several were weak.
+				</div>
+			</td>
+			<td
+		valign = "top" align = "left" width = "130" >
+				<div id = "div_content">
+			Counter-arguments were not accurate  and/or relevant
+				</div>
+			</td>
+			</tr>
+		
+			</table>
+		
+				<br>
+				<div id = "div_content">
+					Date Created:  <b>Mar 20, 2021 07:07 am (CDT)</b>
+			
+				</div>
+			
